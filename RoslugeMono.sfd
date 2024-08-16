@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1723557484
-ModificationTime: 1723756138
+ModificationTime: 1723842240
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -90,7 +90,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 9672 31 15
+WinInfo: 754 26 15
 BeginChars: 1114115 250
 
 StartChar: .notdef
@@ -3186,7 +3186,7 @@ Refer: 74 103 N 1 0 0 1 4000 0 2
 Refer: 88 117 N 1 0 0 1 3000 0 2
 Refer: 79 108 N 1 0 0 1 2000 0 2
 Refer: 86 115 N 1 0 0 1 1000 0 2
-Validated: 98309
+Validated: 32773
 LCarets2: 5 1000 2000 3000 4000 5000
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" bracketleft s l u g bracketright
 EndChar
@@ -3244,7 +3244,7 @@ EndSplineSet
 Refer: 72 101 N 1 0 0 1 4000 0 2
 Refer: 86 115 N 1 0 0 1 3000 0 2
 Refer: 53 82 N 1 0 0 1 1000 0 2
-Validated: 98309
+Validated: 32773
 LCarets2: 5 1000 2000 3000 4000 5000
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0 subtable" bracketleft R o s e bracketright
 EndChar
@@ -3326,7 +3326,7 @@ SplineSet
  350 200 l 1,27,-1
  300 254.166666667 l 1,25,-1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni00A0
@@ -3344,7 +3344,7 @@ Width: 1000
 LayerCount: 2
 Fore
 Refer: 4 33 N -1 1.22465e-16 -1.22465e-16 -1 1000 800 3
-Validated: 98305
+Validated: 32769
 Decomposition: "!"
 EndChar
 
@@ -3355,7 +3355,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 10 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: cent
@@ -3371,7 +3370,7 @@ SplineSet
  450 600 l 1
 EndSplineSet
 Refer: 70 99 N 1 0 0 1 0 0 3
-Validated: 98309
+Validated: 32773
 Decomposition: "c"
 EndChar
 
@@ -3382,7 +3381,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 67 96 N 1 0 0 1 0 250 3
-Validated: 98305
+Validated: 32769
 Decomposition: "`"
 EndChar
 
@@ -3391,8 +3390,7 @@ Encoding: 180 180 114
 Width: 1000
 LayerCount: 2
 Fore
-Refer: 67 96 N -1 -0 0 -1 1000 1400 3
-Validated: 98313
+Refer: 67 96 S -6.12323e-17 -1 1 -6.12323e-17 -200 1200 3
 Decomposition: "`"
 EndChar
 
@@ -3402,7 +3400,6 @@ Width: 1000
 LayerCount: 2
 Fore
 Refer: 114 180 N 1 0 0 1 0 250 3
-Validated: 98313
 EndChar
 
 StartChar: uni0302
@@ -3411,7 +3408,7 @@ Width: 1000
 LayerCount: 2
 Fore
 Refer: 65 94 N 1 0 0 1 0 300 3
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni0307
@@ -3518,8 +3515,7 @@ Encoding: 191 191 122
 Width: 1000
 LayerCount: 2
 Fore
-Refer: 34 63 N 6.12323e-17 1 -1 6.12323e-17 900 -100 3
-Validated: 98305
+Refer: 34 63 N -1 0 0 -1 1000 800 3
 Decomposition: "?"
 EndChar
 
@@ -3530,7 +3526,6 @@ LayerCount: 2
 Fore
 Refer: 124 771 N 1 0 0 1 0 10 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: tildecomb
@@ -3539,7 +3534,7 @@ Width: 1000
 LayerCount: 2
 Fore
 Refer: 97 126 N 1 0 0 1 0 600 3
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni037E
@@ -3547,13 +3542,12 @@ Encoding: 894 894 125
 Width: 1000
 LayerCount: 2
 Fore
-Refer: 78 107 N 0.766675 0 0 0.8 1026.45 -236.4 2
-Refer: 72 101 N 0.766675 0 0 0.8 583.699 -236.4 2
-Refer: 72 101 N 0.766675 0 0 0.8 85.3599 -236.4 2
-Refer: 85 114 N 0.766675 0 0 0.8 -336.311 -236.4 2
-Refer: 42 71 N 0.766675 0 0 0.8 -757.983 -236.4 2
+Refer: 78 107 N 0.191669 0 0 0.2 630.415 -80.4003 2
+Refer: 72 101 N 0.191669 0 0 0.2 519.728 -80.4003 2
+Refer: 72 101 N 0.191669 0 0 0.2 395.143 -80.4003 2
+Refer: 85 114 N 0.191669 0 0 0.2 289.725 -80.4003 2
+Refer: 42 71 N 0.191669 0 0 0.2 184.307 -80.4003 2
 Refer: 30 59 N 1 0 0 1 0 0 3
-Validated: 98309
 Decomposition: ";Greek"
 EndChar
 
@@ -3563,7 +3557,7 @@ Width: 1000
 LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 -150 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: section
@@ -3733,7 +3727,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 10 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Acircumflex
@@ -3743,7 +3736,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Adieresis
@@ -3753,7 +3745,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 10 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Aring
@@ -3763,7 +3754,6 @@ LayerCount: 2
 Fore
 Refer: 119 778 N 1 0 0 1 0 -60 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Egrave
@@ -3773,7 +3763,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 10 2
 Refer: 40 69 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Eacute
@@ -3783,7 +3772,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 10 2
 Refer: 40 69 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Ecircumflex
@@ -3793,7 +3781,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 40 69 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Edieresis
@@ -3803,7 +3790,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 10 2
 Refer: 40 69 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Igrave
@@ -3813,7 +3799,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 10 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Iacute
@@ -3823,7 +3808,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 10 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Icircumflex
@@ -3833,7 +3817,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Idieresis
@@ -3843,7 +3826,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 10 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Ntilde
@@ -3853,7 +3835,6 @@ LayerCount: 2
 Fore
 Refer: 124 771 N 1 0 0 1 0 10 2
 Refer: 49 78 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Ograve
@@ -3863,7 +3844,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 10 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Oacute
@@ -3873,7 +3853,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 10 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Ocircumflex
@@ -3883,7 +3862,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Otilde
@@ -3893,7 +3871,6 @@ LayerCount: 2
 Fore
 Refer: 124 771 N 1 0 0 1 0 10 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Odieresis
@@ -3903,7 +3880,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 10 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Ugrave
@@ -3913,7 +3889,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 10 2
 Refer: 56 85 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Uacute
@@ -3923,7 +3898,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 10 2
 Refer: 56 85 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Ucircumflex
@@ -3933,7 +3907,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 56 85 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Udieresis
@@ -3943,7 +3916,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 10 2
 Refer: 56 85 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Yacute
@@ -3953,7 +3925,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 10 2
 Refer: 60 89 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: agrave
@@ -3963,7 +3934,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -100 -290 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: aacute
@@ -3973,7 +3943,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 0 -290 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: acircumflex
@@ -3983,7 +3952,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 -50 -290 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: atilde
@@ -3993,7 +3961,6 @@ LayerCount: 2
 Fore
 Refer: 124 771 N 1 0 0 1 -50 -290 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: adieresis
@@ -4003,7 +3970,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 -50 -290 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: aring
@@ -4013,7 +3979,6 @@ LayerCount: 2
 Fore
 Refer: 119 778 N 1 0 0 1 -50 -290 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: egrave
@@ -4023,7 +3988,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 -290 2
 Refer: 72 101 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: eacute
@@ -4033,7 +3997,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 -290 2
 Refer: 72 101 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: ecircumflex
@@ -4043,7 +4006,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 -290 2
 Refer: 72 101 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: edieresis
@@ -4053,7 +4015,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 -290 2
 Refer: 72 101 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: igrave
@@ -4063,7 +4024,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -100 -290 2
 Refer: 241 305 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: iacute
@@ -4073,7 +4033,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 0 -290 2
 Refer: 241 305 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: icircumflex
@@ -4083,7 +4042,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 -50 -290 2
 Refer: 241 305 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: idieresis
@@ -4093,7 +4051,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 -50 -290 2
 Refer: 241 305 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: ntilde
@@ -4103,7 +4060,6 @@ LayerCount: 2
 Fore
 Refer: 124 771 N 1 0 0 1 0 -290 2
 Refer: 81 110 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: ograve
@@ -4113,7 +4069,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 -290 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: oacute
@@ -4123,7 +4078,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 -290 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: ocircumflex
@@ -4133,7 +4087,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 -290 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: otilde
@@ -4143,7 +4096,6 @@ LayerCount: 2
 Fore
 Refer: 124 771 N 1 0 0 1 0 -290 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: odieresis
@@ -4153,7 +4105,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 -290 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: ugrave
@@ -4163,7 +4114,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 -290 2
 Refer: 88 117 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: uacute
@@ -4173,7 +4123,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 -290 2
 Refer: 88 117 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: ucircumflex
@@ -4183,7 +4132,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 -290 2
 Refer: 88 117 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: udieresis
@@ -4193,7 +4141,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 -290 2
 Refer: 88 117 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: yacute
@@ -4203,7 +4150,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 -290 2
 Refer: 92 121 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: ydieresis
@@ -4213,7 +4159,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 -290 2
 Refer: 92 121 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Amacron
@@ -4223,7 +4168,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 10 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: amacron
@@ -4233,7 +4177,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 -50 -290 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Cacute
@@ -4243,7 +4186,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 100 10 2
 Refer: 38 67 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: cacute
@@ -4253,7 +4195,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 100 -290 2
 Refer: 70 99 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Ccircumflex
@@ -4263,7 +4204,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 50 10 2
 Refer: 38 67 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: ccircumflex
@@ -4273,7 +4213,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 50 -290 2
 Refer: 70 99 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Cdotaccent
@@ -4283,7 +4222,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 50 10 2
 Refer: 38 67 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: cdotaccent
@@ -4293,7 +4231,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 50 -290 2
 Refer: 70 99 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Emacron
@@ -4303,7 +4240,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 10 2
 Refer: 40 69 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: emacron
@@ -4313,7 +4249,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 -290 2
 Refer: 72 101 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Edotaccent
@@ -4323,7 +4258,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 0 10 2
 Refer: 40 69 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: edotaccent
@@ -4333,7 +4267,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 0 -290 2
 Refer: 72 101 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Gcircumflex
@@ -4343,7 +4276,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 50 10 2
 Refer: 42 71 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: gcircumflex
@@ -4353,7 +4285,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 -290 2
 Refer: 74 103 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Gdotaccent
@@ -4363,7 +4294,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 50 10 2
 Refer: 42 71 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: gdotaccent
@@ -4373,7 +4303,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 0 -290 2
 Refer: 74 103 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Hcircumflex
@@ -4383,7 +4312,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 43 72 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: hcircumflex
@@ -4393,7 +4321,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 75 104 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Itilde
@@ -4403,7 +4330,6 @@ LayerCount: 2
 Fore
 Refer: 124 771 N 1 0 0 1 0 10 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: itilde
@@ -4413,7 +4339,6 @@ LayerCount: 2
 Fore
 Refer: 124 771 N 1 0 0 1 -50 -290 2
 Refer: 241 305 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Imacron
@@ -4423,7 +4348,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 10 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: imacron
@@ -4433,7 +4357,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 -50 -290 2
 Refer: 241 305 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Jcircumflex
@@ -4443,7 +4366,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 250 10 2
 Refer: 45 74 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: jcircumflex
@@ -4451,9 +4373,8 @@ Encoding: 309 309 203
 Width: 1000
 LayerCount: 2
 Fore
-Refer: 116 770 N 1 0 0 1 0 -90 2
-Refer: 77 106 N 1 0 0 1 0 0 3
-Validated: 98305
+Refer: 116 770 N 1 0 0 1 -50 -290 2
+Refer: 249 567 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: Nacute
@@ -4463,7 +4384,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 10 2
 Refer: 49 78 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: nacute
@@ -4473,7 +4393,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 -290 2
 Refer: 81 110 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Ncaron
@@ -4483,7 +4402,6 @@ LayerCount: 2
 Fore
 Refer: 65 94 N 1 0 0 -1 0 1660 2
 Refer: 49 78 N 1 0 0 1 0 0 3
-Validated: 98329
 EndChar
 
 StartChar: Omacron
@@ -4493,7 +4411,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 10 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: omacron
@@ -4503,7 +4420,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 -290 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: Racute
@@ -4513,7 +4429,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 0 10 2
 Refer: 53 82 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: racute
@@ -4523,7 +4438,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 -290 2
 Refer: 85 114 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Sacute
@@ -4533,7 +4447,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 100 10 2
 Refer: 54 83 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: sacute
@@ -4543,7 +4456,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 100 -290 2
 Refer: 86 115 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Scircumflex
@@ -4553,7 +4465,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 50 10 2
 Refer: 54 83 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: scircumflex
@@ -4563,7 +4474,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 50 -290 2
 Refer: 86 115 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Umacron
@@ -4573,7 +4483,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 10 2
 Refer: 56 85 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: umacron
@@ -4583,7 +4492,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 -290 2
 Refer: 88 117 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Uring
@@ -4593,7 +4501,6 @@ LayerCount: 2
 Fore
 Refer: 119 778 N 1 0 0 1 0 10 2
 Refer: 56 85 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: uring
@@ -4603,7 +4510,6 @@ LayerCount: 2
 Fore
 Refer: 119 778 N 1 0 0 1 0 -290 2
 Refer: 88 117 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Wcircumflex
@@ -4613,7 +4519,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 58 87 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: wcircumflex
@@ -4623,7 +4528,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 -290 2
 Refer: 90 119 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Ycircumflex
@@ -4633,7 +4537,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 10 2
 Refer: 60 89 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: ycircumflex
@@ -4643,7 +4546,6 @@ LayerCount: 2
 Fore
 Refer: 116 770 N 1 0 0 1 0 -290 2
 Refer: 92 121 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Ydieresis
@@ -4653,7 +4555,6 @@ LayerCount: 2
 Fore
 Refer: 118 776 N 1 0 0 1 0 10 2
 Refer: 60 89 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: Zacute
@@ -4663,7 +4564,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 10 2
 Refer: 61 90 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: zacute
@@ -4673,7 +4573,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 -290 2
 Refer: 93 122 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: Zdotaccent
@@ -4683,7 +4582,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 0 10 2
 Refer: 61 90 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: zdotaccent
@@ -4693,7 +4591,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 0 -290 2
 Refer: 93 122 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: uni01F4
@@ -4703,7 +4600,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 100 10 2
 Refer: 42 71 N 1 0 0 1 0 0 3
-Validated: 98313
 EndChar
 
 StartChar: uni01F5
@@ -4713,7 +4609,6 @@ LayerCount: 2
 Fore
 Refer: 115 769 N 1 0 0 1 50 -290 2
 Refer: 74 103 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: uni01F8
@@ -4723,7 +4618,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 10 2
 Refer: 49 78 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: uni01F9
@@ -4733,7 +4627,6 @@ LayerCount: 2
 Fore
 Refer: 113 768 N 1 0 0 1 -50 -290 2
 Refer: 81 110 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: uni0226
@@ -4743,7 +4636,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 0 10 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: uni0227
@@ -4753,7 +4645,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 -50 -290 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: uni022A
@@ -4763,7 +4654,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 170 2
 Refer: 148 214 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: uni022C
@@ -4773,7 +4663,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 -100 370 2
 Refer: 147 213 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: uni022E
@@ -4783,7 +4672,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 0 10 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: uni022F
@@ -4793,7 +4681,6 @@ LayerCount: 2
 Fore
 Refer: 117 775 N 1 0 0 1 0 -290 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: uni0230
@@ -4803,7 +4690,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 170 2
 Refer: 236 558 N 1 0 0 1 0 0 3
-Validated: 98309
 EndChar
 
 StartChar: uni0232
@@ -4813,7 +4699,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 10 2
 Refer: 60 89 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: uni0233
@@ -4823,7 +4708,6 @@ LayerCount: 2
 Fore
 Refer: 120 772 N 1 0 0 1 0 -290 2
 Refer: 92 121 N 1 0 0 1 0 0 3
-Validated: 98305
 EndChar
 
 StartChar: dotlessi
@@ -4854,6 +4738,7 @@ Width: 1000
 LayerCount: 2
 Fore
 Refer: 17 46 N 1 0 0 1 0 0 3
+Validated: 98305
 EndChar
 
 StartChar: twodotenleader
@@ -4864,6 +4749,7 @@ LayerCount: 2
 Fore
 Refer: 17 46 N 1 0 0 1 150 0 2
 Refer: 17 46 N 1 0 0 1 -150 0 2
+Validated: 98305
 EndChar
 
 StartChar: ellipsis
@@ -4875,6 +4761,7 @@ Fore
 Refer: 17 46 N 1 0 0 1 300 0 2
 Refer: 17 46 N 1 0 0 1 0 0 2
 Refer: 17 46 N 1 0 0 1 -300 0 2
+Validated: 98305
 EndChar
 
 StartChar: uni203D
@@ -4884,6 +4771,7 @@ LayerCount: 2
 Fore
 Refer: 34 63 N 1 0 0 1 0 0 2
 Refer: 4 33 N 1 0 0 1 0 0 3
+Validated: 98309
 Decomposition: "!?"
 EndChar
 
@@ -4919,6 +4807,7 @@ SplineSet
  300 550 300 550 300 700 c 0,38,39
  300 700 300 700 400 800 c 1,10,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: uni26E7
@@ -4968,6 +4857,7 @@ SplineSet
  649.220703125 611.745117188 l 1,32,-1
  563.060129015 549.145881209 l 1,30,-1
 EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: uni271D
@@ -4987,15 +4877,29 @@ SplineSet
  450 0 l 1,7,-1
  450 800 l 1,4,-1
 EndSplineSet
+Validated: 5
 EndChar
 
-StartChar: uni26E4
-Encoding: 9956 9956 249
+StartChar: uni0237
+Encoding: 567 567 249
 Width: 1000
+Flags: W
 LayerCount: 2
 Fore
-Refer: 247 9959 S -0.647486 -0.762077 0.762077 -0.647486 361.226 956.421 3
-Decomposition: "+JucA"
+SplineSet
+400 500 m 1,0,-1
+ 500 500 l 1,1,-1
+ 550 450 l 1,2,-1
+ 550 0 l 1,3,-1
+ 450 -100 l 1,4,-1
+ 300 -100 l 1,5,-1
+ 300 0 l 1,6,-1
+ 400 0 l 1,7,-1
+ 450 50 l 1,8,-1
+ 450 400 l 1,9,-1
+ 400 400 l 1,10,-1
+ 400 500 l 1,0,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
