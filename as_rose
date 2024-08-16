@@ -15,5 +15,5 @@ echo -n "text 13,35 \"" > /tmp/clip3.txt ;
 wl-paste | sed 's/"/\\"/g'  >> /tmp/clip3.txt ;
 echo -n "\"" >> /tmp/clip3.txt ;
 
-convert -size $(($(wc -L /tmp/clip0.txt | cut -d' ' -f1) * 24 + 24))x$(($(wc -l /tmp/clip0.txt | cut -d' ' -f1) * 36 + 24)) xc:white -font "Rosluge-Mono" -fill black -draw @/tmp/clip.txt -pointsize 24 -fill magenta -draw @/tmp/clip1.txt -fill white -draw @/tmp/clip2.txt -fill magenta -draw @/tmp/clip3.txt /tmp/image.png ;
+convert -size $(($(wc -L /tmp/clip0.txt | cut -d' ' -f1) * 24 + 24))x$(($(wc -l /tmp/clip0.txt | cut -d' ' -f1) * 24 + 36)) xc:white -font "Rosluge-Mono" -fill black -draw @/tmp/clip.txt -pointsize 24 -fill magenta -draw @/tmp/clip1.txt -fill white -draw @/tmp/clip2.txt -fill magenta -draw @/tmp/clip3.txt /tmp/image.png ;
 cat /tmp/image.png | wl-copy
