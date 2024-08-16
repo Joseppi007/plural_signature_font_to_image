@@ -1,0 +1,19 @@
+#!/bin/bash
+echo -n "text 6,12 \"[Rose]\"" > /tmp/clip.txt ;
+
+wl-paste > /tmp/clip0.txt ;
+
+echo -n "text 11,37 \"" > /tmp/clip1.txt ;
+wl-paste | sed 's/"/\\"/g' >> /tmp/clip1.txt ;
+echo -n "\"" >> /tmp/clip1.txt ;
+
+echo -n "text 12,36 \"" > /tmp/clip2.txt ;
+wl-paste | sed 's/"/\\"/g'  >> /tmp/clip2.txt ;
+echo -n "\"" >> /tmp/clip2.txt ;
+
+echo -n "text 13,35 \"" > /tmp/clip3.txt ;
+wl-paste | sed 's/"/\\"/g'  >> /tmp/clip3.txt ;
+echo -n "\"" >> /tmp/clip3.txt ;
+
+convert -size $(($(wc -L /tmp/clip0.txt | cut -d' ' -f1) * 24 + 24))x$(($(wc -l /tmp/clip0.txt | cut -d' ' -f1) * 36 + 24)) xc:white -font "Rosluge-Mono" -fill black -draw @/tmp/clip.txt -pointsize 24 -fill magenta -draw @/tmp/clip1.txt -fill white -draw @/tmp/clip2.txt -fill magenta -draw @/tmp/clip3.txt /tmp/image.png ;
+cat /tmp/image.png | wl-copy
